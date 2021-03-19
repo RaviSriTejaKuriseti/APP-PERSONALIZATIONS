@@ -54,16 +54,6 @@
                 "backgroundImage": "C:\\Users\\Lenovo\\OneDrive\\Pictures\\eagle.jpg",
                 "backgroundImageOpacity": 0.25
             },
-            
-            {
-                "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
-                "hidden": false,
-                "name": "Azure Cloud Shell",
-                "source": "Windows.Terminal.Azure",
-                "colorScheme": "One Half Dark",
-                "useAcrylic": true, 
-                "acrylicOpacity": 0.5
-            },
             {
                 "guid": "{58ad8b0c-3ef8-5f4d-bc6f-13e4c00f2530}",
                 "hidden": false,
@@ -74,7 +64,18 @@
                 "acrylicOpacity": 0.7,
                 "backgroundImage": "C:\\Users\\Lenovo\\OneDrive\\Pictures\\debian.jpg",
                 "backgroundImageOpacity": 0.35
+            },
+            
+            {
+                "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
+                "hidden": false,
+                "name": "Azure Cloud Shell",
+                "source": "Windows.Terminal.Azure",
+                "colorScheme": "One Half Dark",
+                "useAcrylic": true, 
+                "acrylicOpacity": 0.5
             }
+           
             
         ]
     },
