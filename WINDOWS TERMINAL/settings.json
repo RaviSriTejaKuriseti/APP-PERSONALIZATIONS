@@ -40,7 +40,9 @@
                 "hidden": false,
                 "colorScheme": "Campbell Powershell",
                 "useAcrylic": true, 
-                "acrylicOpacity": 0.6
+                "acrylicOpacity": 0.8,
+                "backgroundImage": "C:\\Users\\Lenovo\\OneDrive\\Pictures\\psh.jpg",
+                "backgroundImageOpacity": 0.1
             },
             {
                 // Make changes here to the cmd.exe profile.
@@ -73,7 +75,9 @@
                 "source": "Windows.Terminal.Azure",
                 "colorScheme": "One Half Dark",
                 "useAcrylic": true, 
-                "acrylicOpacity": 0.5
+                "acrylicOpacity": 0.5,
+                "backgroundImage": "C:\\Users\\Lenovo\\OneDrive\\Pictures\\azure.png",
+                "backgroundImageOpacity": 0.25
             }
            
             
